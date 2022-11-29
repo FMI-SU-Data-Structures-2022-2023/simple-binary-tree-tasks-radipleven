@@ -1,7 +1,7 @@
 #include "solution.h"
 
 int countElements(Node* tree) {
-    return -1;
+    return 0;
 }
 
 int countLeafs(Node* tree) {
