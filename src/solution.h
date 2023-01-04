@@ -1,4 +1,6 @@
 #ifndef WEEK6_TREE_H
+#include <iostream>
+#include <vector>
 
 struct Node {
     int key;
